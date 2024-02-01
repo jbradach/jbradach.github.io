@@ -4,9 +4,9 @@ layout: default
 
 # Looking for one of my public projects?
 * [Sample SQL scripts for Action Network reporting.](https://github.com/jbradach/action-network-reporting)
-* [Sample SQL scripts for Spoke reporting.](https://github.com/jbradach/spoke-reporting)
+* [Sample SQL scripts for Spoke (P2P SMS tool)reporting.](https://github.com/jbradach/spoke-reporting)
 * [Scripts to automate Ubuntu server configuration and LEMP stack deployment.](https://github.com/jbradach/quick-lemp)
-* [Crowdsourced list of digital tools and services with nonprofit discounts (some c4 friendly, too!)](https://ppls.ac/nonprofit)
+* [Crowdsourced list of digital tools and services with nonprofit discounts ](https://ppls.ac/nonprofit)
 * [Run Off the Road: Chicago’s Taxi Medallion Foreclosure Crisis: a Chicago taxi industry report published by Cab Drivers United/AFSCME Council 3.](/assets/Cab-Drivers-United-AFSCME-2500-Chicago-Taxi-Report-20170502.pdf)
 
 # Recent Articles
